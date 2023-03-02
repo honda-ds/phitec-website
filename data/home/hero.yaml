@@ -11,5 +11,5 @@ content:
 
   buttonSecondary:
     label: "Fale conosco"
-    url: ""
+    url: "/#cta"
 

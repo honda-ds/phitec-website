@@ -3,6 +3,7 @@ id: "cta"
 
 content:
   title: "Traga inteligência para suas soluções"
+  text: "A PhiTec surgiu da associação entre pesquisadores com habilidades profundas em programação, matemática, design visual, geociências e análise de dados. Um grupo talentoso e diversificado de solucionadores de problemas. Todos compartilham uma paixão por fazer um trabalho de qualidade e com entrega de valor."
   image: "images/undraw_visual_data_re_mxxo.png"
   button:
     label: "Vamos conversar"

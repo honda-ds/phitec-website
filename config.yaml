@@ -14,7 +14,7 @@ params:
   images: 
     - "images/undraw_Data_re_80ws.png"
 
-  logo: "arrow-up.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -43,7 +43,7 @@ menus:
     #   url: "#"
     #   weight: 1
 
-    - name: "Nosso trabalho"
+    - name: "Portfólio"
       url: "/#portfolio"
       weight: 1
 
@@ -51,9 +51,9 @@ menus:
       url: "/#services"
       weight: 2
 
-    # - name: "Pricing"
-    #   url: "/#"
-    #   weight: 4
+    - name: "Sobre nós"
+      url: "/#cta"
+      weight: 4
 
     # - name: "Blog"
     #   url: "/blog"
@@ -61,7 +61,7 @@ menus:
 
   buttons:
     - name: "Fale conosco"
-      url: "/#"
+      url: "/#cta"
       weight: 5
       pre: "btn btn-primary text-light"
 
