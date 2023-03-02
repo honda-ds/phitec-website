@@ -1,0 +1,12 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Atendemos todas as indústrias, criamos experiências baseadas em dados.\n
+          Alguns dos nossos clientes:"
+  items:
+    - "images/cgee.png"
+    - "images/buscajuris.png"
+    # - "images/brands-adobe.png"
+    # - "images/brands-spotify.png"
+    # - "images/brands-dropbox.png"

@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Nossos serviços"
+  text: "Encontre e aproveite oportunidades; reduza custos, aumente receitas; mitigue riscos"
+  cards:
+    - image: "images/undraw_Data_points_re_vkpq.png"
+      title: "Análise de Dados: guiar melhor tomada de decisões"
+      text: "Métodos preditivos, espaciais e prescritivos; Machine Learning, Estatística e Econometria; Garantia de uma análise útil e que será realmente adotada"
+      button:
+        label: "Saiba mais"
+        url: "#"
+
+    - image: "images/undraw_Metrics_re_6g90.png"
+      title: "Visualização: revelar fatos e remover dúvidas"
+      text: "Design adequado, informação com clareza e mais convicção na tomada de decisões; Construção de ferramentas intuitivas e interativas para explorar dados complexos; Especialização em dashboards, interfaces web e representações visuais"
+      button:
+        label: "Saiba mais"
+        url: "#"
+
+    - image: "images/undraw_Server_re_twwj.png"
+      title: "DataOps: operar e processar dados"
+      text: "Acessos e análises mais rápidas; Mais velocidade nas decisões e nas pipelines de dados; Automação de processos; Maior segurança"
+      button:
+        label: "Saiba mais"
+        url: "#"

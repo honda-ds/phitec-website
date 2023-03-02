@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Esclareça **decisões** com dados"
+  text: "Design adequado, clareza nas informações e convicção para tomada de decisões"
+
+  buttonPrimary:
+    label: "Nosso trabalho"
+    url: "/#portfolio"
+
+  buttonSecondary:
+    label: "Fale conosco"
+    url: ""
+

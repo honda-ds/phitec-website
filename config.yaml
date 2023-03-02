@@ -1,0 +1,91 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "PhiTec"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "PhiTec"
+  description: "Design adequado, clareza nas informações e convicção para tomada de decisões"
+  images: 
+    - "images/undraw_Data_re_80ws.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
+
+  location:
+    - "Brasília, Distrito Federal - DF - Brazil"
+
+  contact:
+    - "contato@phitec.com"
+
+  copyright: "© 2023 PhiTec todos os direitos reservados"
+
+  postProcess: false
+
+menus:
+  main:
+    - name: "Início"
+      url: "#"
+      weight: 1
+
+    - name: "Nosso trabalho"
+      url: "/#portfolio"
+      weight: 2
+
+    - name: "Serviços"
+      url: "/#services"
+      weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+  buttons:
+    - name: "Fale conosco"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  # footer:
+  #   - name: "Home"
+  #     url: "/#hero"
+  #     weight: 1
+
+  #   - name: "How we work"
+  #     url: "/#"
+  #     weight: 2
+
+  #   - name: "Our team"
+  #     url: "/#"
+  #     weight: 3
+
+  #   - name: "Pricing"
+  #     url: "/#"
+  #     weight: 4
+
+  #   - name: "Blog"
+  #     url: "/blog"
+  #     weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
